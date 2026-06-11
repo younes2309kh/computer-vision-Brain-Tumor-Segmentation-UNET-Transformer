@@ -1,7 +1,7 @@
 
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
-os.chdir(r"C:\Users\newon\Downloads\Brain Tumor Segmentation")
+os.chdir(r"C:\younes\data\Brain_Segmentation")
 from math import log2
 import tensorflow as tf
 import tensorflow.keras.layers as L
